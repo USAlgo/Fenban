@@ -70,5 +70,13 @@ export default defineUserConfig({
     //   description: 'Vue-powered Static Site Generator',
     // },
   },
+
+  plugins: [
+    '@vuepress/plugin-git'({
+      createdTime: false,
+      updatedTime: false,
+      contributors: false
+    }),
+  ],
 })
 
