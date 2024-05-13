@@ -71,12 +71,12 @@ export default defineUserConfig({
     // },
   },
 
-  plugins: [
-    '@vuepress/plugin-git'({
-      createdTime: false,
-      updatedTime: false,
-      contributors: false
-    }),
-  ],
+  // plugins: [
+  //   '@vuepress/plugin-git'({
+  //     createdTime: false,
+  //     updatedTime: false,
+  //     contributors: false
+  //   }),
+  // ],
 })
 
