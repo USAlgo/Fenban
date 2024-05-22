@@ -61,7 +61,7 @@ export default defineUserConfig({
     // 作为特例，默认语言可以使用 '/' 作为其路径。
     '/': {
       lang: 'zh-CN',
-      title: '优策分班',
+      title: '优分班',
       description: '全面和精准的分班算法库',
     },
     // '/en/': {
