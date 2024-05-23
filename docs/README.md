@@ -10,7 +10,7 @@ actions:
     type: primary
 
   - text: 下载
-    link: /get-started.html#获取sdk
+    link: https://www.nuget.org/packages/USAlgo.ClassBalance
     type: secondary
 
   - text: 关于
