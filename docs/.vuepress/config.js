@@ -1,6 +1,7 @@
 import { defaultTheme } from '@vuepress/theme-default'
 import { defineUserConfig } from 'vuepress/cli'
 import { viteBundler } from '@vuepress/bundler-vite'
+import { googleAnalyticsPlugin } from '@vuepress/plugin-google-analytics'
 
 export default defineUserConfig({
   lang: 'zh-CN',
