@@ -71,6 +71,12 @@ export default defineUserConfig({
     // },
   },
 
+  plugins: [
+    googleAnalyticsPlugin({
+      id: 'G-4EMSC855N6',
+    }),
+  ],
+
   // plugins: [
   //   '@vuepress/plugin-git'({
   //     createdTime: false,
