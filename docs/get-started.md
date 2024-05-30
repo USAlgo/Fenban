@@ -13,7 +13,7 @@ description: 使用文档
 
 ## 使用说明
 
-我们优先推荐使用SDK集成。如果您有需要，我们也非常愿意基于您的需求提供定制化开发服务。
+我们优先推荐使用.NET SDK集成，Python版本请单独联系。如果您有其他需要，我们也非常愿意基于您的需求提供定制化开发服务。
 
 ### 获取SDK 
 获取最新Nuget包[USAlgo.ClassBalance](https://www.nuget.org/packages/USAlgo.ClassBalance)并安装。
