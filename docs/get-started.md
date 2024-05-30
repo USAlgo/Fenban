@@ -90,8 +90,6 @@ Console.WriteLine($"{JsonConvert.SerializeObject(output)}");
 
 | 特性 | 免费版本 | 授权版本 |
 | --- | --- | --- |
-| 学生人数 | 支持 (<=100) | 支持 |
-| 分班个数 | 支持 | 支持 |
 | 成绩均衡 | 支持 | 支持 |
 | 人数均衡 | 支持 | 支持 |
 | 性别均衡 | 支持 | 支持 |
@@ -102,11 +100,12 @@ Console.WriteLine($"{JsonConvert.SerializeObject(output)}");
 | 学生互斥 | 支持 | 支持 |
 | 名次均衡 | 支持 | 支持 |
 | 分数段均衡 | 支持 | 支持 |
-| 特殊条件均衡 | 支持 | 支持  |
+| 条件均衡 | 支持 | 支持  |
+| 学生人数 | <=100 | 不限 |
 | 技术支持 | 有限支持 | 支持  |
+
+**授权不限时间、硬件、用户个数、分发个数。一次授权，永久使用。**
 
 授权请联系
 - 微信号:speech_balloon:：royzheng2017
 - 邮箱:envelope:：[royzheng2017@gmail.com](royzheng2017@gmail.com)。
-
-授权不限时间、硬件、用户个数、分发个数。一次授权，永久使用。
